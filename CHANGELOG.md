@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+## 0.2.0 - 2019-06-09
+### Changed
+- Added similar colors to not activated CSS version
+
 ## 0.1.1 - 2019-06-09
 ### Added
 - CHANGELOG.md
