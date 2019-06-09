@@ -1,27 +1,32 @@
 {
-    "name": "hotline-vs",
-    "displayName": "Hotline VS",
-    "description": "",
-    "version": "1.0.4",
-    "publisher": "bogdansalyp",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bogdansalyp/hotline-vs.git"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hotline VS",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hotline VS-color-theme.json"
-            }
-        ]
-    }
+	"name": "hotline-vs",
+	"displayName": "Hotline VS",
+	"description": "",
+	"version": "1.0.4",
+	"publisher": "bogdansalyp",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bogdansalyp/hotline-vs.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hotline VS",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hotline VS-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d117d3b8-abeb-460b-959e-cb043fac66e1",
+		"publisherDisplayName": "Bogdan Salyp",
+		"publisherId": "fe9aac15-02f5-41c2-843d-031a9baee514"
+	}
 }
