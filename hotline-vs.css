@@ -34,9 +34,9 @@
 
 /* Functions */
 .mtk8 {
-  color: rgb(208, 255, 245);
+  color: rgb(146, 255, 231);
   font-weight: bold;
-  text-shadow: 0 0 3px #000, 0 0 5px #00ffff, 0 0 6px #00ffff;
+  text-shadow: 0 0 3px #000, 0 0 5px #44ffff;
 }
 
 /* HTML tag names */
@@ -62,12 +62,9 @@
 
 /* CSS tags */
 .mtk12 {
-  /* color: #FFD317;
+  color: rgb(146, 255, 231);
   font-weight: bold;
-  text-shadow: 0 0 3px #000, 0 0 5px #E24801, 0 0 10px #E24801, 0 0 25px #E24801; */
-  color: rgb(208, 255, 245);
-  font-weight: bold;
-  text-shadow: 0 0 3px #000, 0 0 5px #00ffff, 0 0 6px #00ffff;
+  text-shadow: 0 0 3px #000, 0 0 5px #44ffff;
 }
 
 /* HTML attributes */
@@ -123,9 +120,9 @@
 
 /* Strings */
 .mtk22 {
-  color: rgb(208, 255, 245);
+  color: rgb(146, 255, 231);
   font-weight: bold;
-  text-shadow: 0 0 3px #000, 0 0 5px #00ffff, 0 0 6px #00ffff;
+  text-shadow: 0 0 3px #000, 0 0 5px #44ffff;
 }
 
 /* HTML tags */
@@ -151,6 +148,13 @@
 .mtk26 {
   color: #3CDD7C;
   font-weight: bold;
+}
+
+/* Support */
+.mtk27 {
+  color: #ff6fff;
+  font-weight: bold;
+  text-shadow: 0 0 3px #000, 0 0 5px red, 0 0 10px red;
 }
 
 .monaco-editor .margin, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
