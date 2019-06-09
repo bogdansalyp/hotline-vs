@@ -1,9 +1,20 @@
 # Change Log
 
-All notable changes to the "hotline-vs" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
 
-- Initial release
+## 0.1.1 - 2019-06-09
+### Added
+- CHANGELOG.md
+### Changed
+- README.md installation process
+
+## 0.1.0 - 2019-06-09
+###Added
+- Icon
+
+## 0.0.1 - 2019-06-09
+### Added
+- Initial Hotline theme
+- Glow CSS
+- Extension structure
