@@ -9,7 +9,7 @@ Have you ever watched **Kung Fury**? 🥋
 
 Any other **synthwave style movies**? [🦂🔨](https://en.wikipedia.org/wiki/Drive_(2011_film))
 
-I bet you do. And here's a new way to feel like a true [Hackerman](https://knowyourmeme.com/memes/hackerman) with this extension!
+I bet you did. And here's a new way to feel like a true [Hackerman](https://knowyourmeme.com/memes/hackerman) with this extension!
 
 ## Example (JS code)
 ![
