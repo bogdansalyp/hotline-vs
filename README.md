@@ -28,7 +28,7 @@ I bet you do. And here's a new way to feel like a true [Hackerman](https://knowy
 ](https://pp.userapi.com/c851524/v851524887/140f9f/F8t6B3sxDso.jpg)
 5. Open `settings.json` and add this:
 
-On Mac 🍏 it might look something like the snippet below (version `1.0.0` may be different):
+On Mac 🍏 it might look something like the snippet below:
 
 ```
 {
