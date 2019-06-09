@@ -2,8 +2,11 @@
 # Hotline VS theme
 
 Have you played **Hotline Miami**? 🐔
+
 Do you like **synthwave** style? 🌆
+
 Have you ever watched **Kung Fury**? 🥋
+
 Any other **synthwave style movies**? [🦂🔨](https://en.wikipedia.org/wiki/Drive_(2011_film))
 
 I bet you do. And here's a new way to feel like a true [Hackerman](https://knowyourmeme.com/memes/hackerman) with this extension!
@@ -20,6 +23,7 @@ I bet you do. And here's a new way to feel like a true [Hackerman](https://knowy
 
 3. **Inside VS Code** press `Cmd+Shift+P`
 4. Type `Enable Custom CSS and JS` and press enter this:
+
 ![
 ](https://pp.userapi.com/c851524/v851524887/140f9f/F8t6B3sxDso.jpg)
 5. Open `settings.json` and add this:
