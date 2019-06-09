@@ -10,7 +10,7 @@ I bet you do. And here's a new way to feel like a true [Hackerman](https://knowy
 
 ## Example (JS code)
 ![
-](https://pp.userapi.com/c851524/v851524833/13d692/72JlbpWYC14.jpg =600x)
+](https://pp.userapi.com/c851524/v851524833/13d692/72JlbpWYC14.jpg)
 
 ## Installation
 
@@ -57,17 +57,17 @@ This theme was made on inspiration by [SynthWave '84](https://marketplace.visual
 **CPP code:**
 
 ![
-](https://pp.userapi.com/c851524/v851524887/140ffc/my6pmQ2uvxw.jpg =1000x)
+](https://pp.userapi.com/c851524/v851524887/140ffc/my6pmQ2uvxw.jpg)
 
 **CSS code:**
 
 ![
-](https://pp.userapi.com/c851524/v851524887/141005/lruP6futqcQ.jpg =400x)
+](https://pp.userapi.com/c851524/v851524887/141005/lruP6futqcQ.jpg)
 
 **HTML code:**
 
 ![
-](https://pp.userapi.com/c851524/v851524887/141021/uH-R0-XS8QA.jpg =1000x)
+](https://pp.userapi.com/c851524/v851524887/141021/uH-R0-XS8QA.jpg)
 
 Other languages support works too. More screenshots coming soon!
 
