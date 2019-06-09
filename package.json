@@ -2,7 +2,7 @@
     "name": "hotline-vs",
     "displayName": "Hotline VS",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "bogdansalyp",
     "engines": {
         "vscode": "^1.35.0"
