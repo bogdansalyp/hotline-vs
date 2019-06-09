@@ -29,7 +29,7 @@ On Mac 🍏 it might look something like the snippet below (version `1.0.0` may 
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.1.0.0/hotline-vs.css"
+    "file:///Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.{version number}/hotline-vs.css"
   ]
 }
 ```
@@ -39,7 +39,7 @@ Windows 🏠 might resemble:
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.1.0.0/hotline-vs.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.{version number}/hotline-vs.css"
   ]
 }
 ```
