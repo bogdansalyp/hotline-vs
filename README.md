@@ -25,7 +25,7 @@ I bet you did. And here's a new way to feel like a true [Hackerman](https://know
 2. Then install [this extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) (enables custom CSS and JS inside VS Code).
 
 3. **Inside VS Code** press `Cmd+Shift+P`
-4. Type `Enable Custom CSS and JS` and press enter this:
+4. Type `Enable Custom CSS and JS` and press enter:
 
 ![
 ](https://pp.userapi.com/c851524/v851524887/140f9f/F8t6B3sxDso.jpg)
