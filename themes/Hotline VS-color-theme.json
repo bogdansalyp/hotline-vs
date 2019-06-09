@@ -1,0 +1,203 @@
+{
+	"name": "Hotline VS",
+	"type": "light",
+	"colors": {},
+	"tokenColors": [
+	  {
+		"name": "Comment",
+		"scope": "comment",
+		"settings": {
+		  "foreground": "#8B21FF",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "String",
+		"scope": [
+		  "string.quoted",
+		  "string.template",
+		  "punctuation.definition.string"
+		],
+		"settings": {
+		  "foreground": "#d0fff5"
+		}
+	  },
+	  {
+		"name": "Variable",
+		"scope": ["variable", "entity.name.variable", "variable.other.constant.property.js", "variable.other.property.js", "meta.object-literal.key", "support.type.property-name", "support.variable"],
+		"settings": {
+		  "foreground": "#ff6fff"
+		}
+	  },
+	  {
+		"name": "Constant",
+		"scope": "constant",
+		"settings": {
+		  "foreground": "#ff6ffe"
+		}
+	  },
+	  {
+		"name": "Parameter",
+		"scope": "variable.parameter",
+		"settings": {
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "Storage (declaration or modifier keyword)",
+		"scope": ["storage.type", "storage.modifier"],
+		"settings": {
+		  "foreground": "#E24801"
+		}
+	  },
+	  
+	  {
+		"name": "Regex",
+		"scope": "string.regexp",
+		"settings": {
+		  "foreground": "#ffffe5"
+		}
+	  },
+	  {
+		"name": "Number",
+		"scope": "constant.numeric",
+		"settings": {
+		  "foreground": "#ffffe6"
+		}
+	  },
+	  {
+		"name": "Language constant (boolean, null)",
+		"scope": "constant.language",
+		"settings": {
+		  "foreground": "#ffffe7"
+		}
+	  },
+	  {
+		"name": "Character escape",
+		"scope": "constant.character.escape",
+		"settings": {
+		  "foreground": "#ffffe8"
+		}
+	  },
+	  {
+		"name": "HTML or XML tag",
+		"scope": "entity.name.tag",
+		"settings": {
+		  "foreground": "#ffffe9"
+		}
+	  },
+	  {
+		"name": "HTML or XML tag brackets",
+		"scope": ["punctuation.definition.tag"],
+		"settings": {
+		  "foreground": "#ffffea"
+		}
+	  },
+	  
+	  {
+		"name": "Tag attribute HTML",
+		"scope": "entity.other.attribute-name.html",
+		"settings": {
+		  "foreground": "#ffffec",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "Class",
+		"scope": ["entity.name.type", "meta.attribute.class.html"],
+		"settings": {
+		  "foreground": "#ffffed"
+		}
+	  },
+	  {
+		"name": "Inherited class",
+		"scope": "entity.other.inherited-class",
+		"settings": {
+		  "foreground": "#ffffee"
+		}
+	  },
+	  {
+		"name": "Function",
+		"scope": ["entity.name.function", "variable.function", "meta.function-call", "support.function"],
+		"settings": {
+		  "foreground": "#ffffef"
+		}
+	  },
+	  {
+		"name": "JS Export",
+		"scope": ["keyword.control.export.js", "keyword.control.import.js"],
+		"settings": {
+		  "foreground": "#fffff0"
+		}
+	  },
+	  {
+		"name": "Keyword",
+		"scope": "keyword",
+		"settings": {
+		  "foreground": "#fffff1"
+		}
+	  },
+	  {
+		"name": "Control keyword",
+		"scope": "keyword.control",
+		"settings": {
+		  "foreground": "#fffff2"
+		}
+	  },
+	  {
+		"name": "Operator",
+		"scope": "keyword.operator",
+		"settings": {
+		  "foreground": "#fffff3"
+		}
+	  },
+	  {
+		"name": "Unit",
+		"scope": "keyword.other.unit",
+		"settings": {
+		  "foreground": "#fffff4"
+		}
+	  },
+	  {
+		"name": "Support",
+		"scope": "support",
+		"settings": {
+		  "foreground": "#fffff5"
+		}
+	  },
+	  {
+		"name": "Terminator",
+		"scope": [
+		  "punctuation.terminator"
+		],
+		"settings": {
+		  "foreground": "#ffffd0"
+		}
+	  },
+	  {
+		"name": "CSS Selectt tag attribute",
+		"scope": "entity.other.attribute-name.class.css",
+		"settings": {
+		  "foreground": "#ffffeb"
+		}
+	  },
+	  {
+		"name": "CSS #id",
+		"scope": "entity.other.attribute-name.id",
+		"settings": {
+		  "foreground": "#fffffe"
+		}
+	  },
+	  {
+		"name": "Pseudo CSS",
+		"scope": [
+		  "entity.other.attribute-name.pseudo-element",
+		  "entity.other.attribute-name.pseudo-class"
+		],
+		"settings": {
+		  "foreground": "#fffffd"
+		}
+	  }
+	]
+}
+  
