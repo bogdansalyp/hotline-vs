@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+## 1.0.0 - 2019-06-10
+### Changed
+- Finished first version of README.md
+
 ## 0.2.0 - 2019-06-09
 ### Changed
 - Added similar colors to not activated CSS version
