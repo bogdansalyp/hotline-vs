@@ -1,6 +1,9 @@
 
 # Hotline VS theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/bogdansalyp.hotline-vs.svg)](https://marketplace.visualstudio.com/items?itemName=bogdansalyp.hotline-vs)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/bogdansalyp.hotline-vs.svg)](https://marketplace.visualstudio.com/items?itemName=bogdansalyp.hotline-vs)
+
 Have you played **Hotline Miami**? 🐔
 
 Do you like **synthwave** style? 🌆
