@@ -2,7 +2,7 @@
 	"name": "hotline-vs",
 	"displayName": "Hotline VS",
 	"description": "",
-	"version": "1.1.0",
+	"version": "1.0.8",
 	"publisher": "bogdansalyp",
 	"icon": "icon.png",
 	"engines": {
