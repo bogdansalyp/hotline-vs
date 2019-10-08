@@ -32,22 +32,31 @@ I bet you did. And here's a new way to feel like a true [Hackerman](https://know
 
 5. Open `settings.json` and add this:
 
-On Mac 🍏 it might look something like the snippet below:
+🍏 On Mac it might look something like the snippet below:
 
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.{version number}/hotline-vs.css"
+    "file:///Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.0.8/hotline-vs.css"
   ]
 }
 ```
 
-Windows 🏠 might resemble:
+🐧 Linux users should use:
+```
+{
+  "vscode_custom_css.imports": [
+    "file:///home/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.0.8/hotline-vs.css"
+  ]
+}
+```
+
+🏠 Windows might resemble:
 
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/bogdansalyp.hotline-vs.{version number}/hotline-vs.css"
+    "file:///C:/Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.0.8/hotline-vs.css"
   ]
 }
 ```
