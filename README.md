@@ -37,7 +37,7 @@ I bet you did. And here's a new way to feel like a true [Hackerman](https://know
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.0/hotline-vs.css"
+    "file:///Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.1/hotline-vs.css"
   ]
 }
 ```q
@@ -46,7 +46,7 @@ I bet you did. And here's a new way to feel like a true [Hackerman](https://know
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///home/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.0/hotline-vs.css"
+    "file:///home/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.1/hotline-vs.css"
   ]
 }
 ```
@@ -56,7 +56,7 @@ I bet you did. And here's a new way to feel like a true [Hackerman](https://know
 ```
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.0/hotline-vs.css"
+    "file:///C:/Users/{YOUR USERNAME}/.vscode/extensions/bogdansalyp.hotline-vs-1.1.1/hotline-vs.css"
   ]
 }
 ```
